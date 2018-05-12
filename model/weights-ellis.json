@@ -1,8 +1,8 @@
 [
 	{
 		"paths": [
-			"group1-shard1of2",
-			"group1-shard2of2"
+			"radLense/model/group1-shard1of2",
+			"radLense/model/group1-shard2of2"
 		],
 		"weights": [
 			{
