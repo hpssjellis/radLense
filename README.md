@@ -1,5 +1,18 @@
 # radLense
 
+
+
+From Jeremy Ellis
+May 12, 2018
+
+my demo site at 
+https://hpssjellis.github.io/radLense/dist/index.html
+
+
+
+
+
+
 ##My first git project and
 ##it's for running a tensorflow model I trained in python that
 ##I'm trying to convert with tensorflowjs for deployment in the web.
