@@ -5,11 +5,13 @@
 From Jeremy Ellis
 May 12, 2018
 
-my demo site at 
+The demo site is at   
 https://hpssjellis.github.io/radLense/dist/index.html
 
 
 
+The weights file has been made readable at  
+https://hpssjellis.github.io/radLense/model/weights_manifest.json
 
 
 
